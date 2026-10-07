@@ -1,0 +1,26 @@
+@media (max-width: 600px) {
+  header {
+    padding-top: 25px;
+  }
+  .status {
+    display: none;
+  }
+  .shrimp {
+    left: 4%;
+    bottom: 18%;
+  }
+  .legend {
+    bottom: 19px;
+  }
+  .level {
+    bottom: 20px;
+  }
+  .whale {
+    width: 86vw;
+    top: 31%;
+  }
+  .garden {
+    height: 20%;
+    bottom: 11%;
+  }
+}
